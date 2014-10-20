@@ -13,3 +13,4 @@ And in your POM:
 
 Checkout last version [here](https://bintray.com/guestful/maven/guestful.module.mixpanel-client/view)
 
+[![Build Status](https://drone.io/github.com/guestful/module.mixpanel-client/status.png)](https://drone.io/github.com/guestful/module.mixpanel-client/latest)
